@@ -1,0 +1,20 @@
+{
+    "name": "highlight-text-background",
+    "version": "1.0.0",
+    "description": "WordPress Gutenberg editor text background highlight plugin",
+    "scripts": {
+        "build": "wp-scripts build",
+        "start": "wp-scripts start"
+    },
+    "author": "Your Name",
+    "license": "GPL-2.0-or-later",
+    "devDependencies": {
+        "@wordpress/scripts": "^26.0.0"
+    },
+    "dependencies": {
+        "@wordpress/components": "^25.0.0",
+        "@wordpress/element": "^5.0.0",
+        "@wordpress/i18n": "^4.0.0",
+        "@wordpress/rich-text": "^6.0.0"
+    }
+} 

@@ -1,0 +1,15 @@
+.highlight-text-background-controls {
+    padding: 10px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 10px 0;
+}
+
+.highlight-text-background {
+    display: inline;
+    padding: 2px 4px;
+    border-radius: 3px;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+} 
